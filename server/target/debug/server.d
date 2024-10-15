@@ -1,0 +1,1 @@
+C:\Users\privt\Desktop\LSP\vscode-extension-samples\lsp-sample\server\target\debug\server.exe: C:\Users\privt\Desktop\LSP\vscode-extension-samples\lsp-sample\server\router_macro\src\lib.rs C:\Users\privt\Desktop\LSP\vscode-extension-samples\lsp-sample\server\src\main.rs C:\Users\privt\Desktop\LSP\vscode-extension-samples\lsp-sample\server\src\structures.rs
